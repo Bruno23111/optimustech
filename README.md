@@ -3,7 +3,8 @@
 # optimustech
 Olá, Bem vindo ao meu projeto de site do desafio 7DaysOfCode - Alura - HTML e CSS
 
-![image](https://github.com/Bruno23111/optimustech/assets/81599298/14abab15-3638-4b50-9cd4-51603e3fdaee)
+![image](https://github.com/Bruno23111/optimustech/assets/81599298/62282b11-049d-42d8-8848-8629e10933e3)
+
 
 ## Ferramentas utilizadas:
 
