@@ -1,0 +1,30 @@
+.caixa{
+    display: flex;
+    justify-content: center;
+    padding: 2em 5em;
+}
+
+.caixa-container{
+    text-align: center;
+    padding: 6em 30em;
+}
+
+.caixa__item{
+    color: var(--vinho);
+    font-weight: 600;
+}
+
+.caixa__titulo{
+    margin-top: 0.75em;
+    font-size: 48px;
+    color: var(--cinza-titulo);
+    font-weight: 600;
+}
+
+.caixa__texto{
+    margin-top: 1.5em;
+    color: var(--cinza);
+    font-size: 20px;
+    font-weight: 400;
+}
+

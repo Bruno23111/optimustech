@@ -1,0 +1,38 @@
+.vagas-container{
+    display: flex;
+    box-sizing: content-box;
+    justify-content: center;
+}
+
+.vagas-caixa{
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.vagas__conteudo{
+    display: flex;
+    gap: 15px;
+}
+.vagas-item{
+    border: 1px solid var(--cinza-claro);
+    border-radius: 16px;
+    padding: 2em 30em 2em 2em;
+    margin-bottom: 1em;
+}
+
+    
+.vagas__titulo{
+    font-size: 20px;
+    color: var(--cinza-titulo);
+    margin: 2em 0;
+    font-weight: 600;
+}
+
+.vagas-item__titulo{
+    font-size: 18px;
+    color: var(--cinza-titulo);
+    font-weight: 500;
+    margin-bottom: 2em;
+}
